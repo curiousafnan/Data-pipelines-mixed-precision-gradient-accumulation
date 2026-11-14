@@ -1,0 +1,9 @@
+PUBLIC LIBRARY DIGITIZATION PROJECT BRIEF
+Date: 8 October 2025
+Department: Community Archives
+
+The municipal library has begun digitizing its collection of historical newspapers and handwritten community records. The first phase covers material dated from 1920 to 1950, including local event notices, advertisements, and correspondence donated by residents. Each document is inspected for damage before scanning.
+
+Technicians scan fragile pages at a resolution suitable for archival preservation and store master images separately from smaller access copies. Library staff review optical character recognition results, correct obvious transcription mistakes, and attach metadata describing dates, sources, and document types. Names and locations are checked against the existing catalogue when possible.
+
+The archive will make public-domain material searchable through the library website. Documents involving sensitive personal information are reviewed before publication. A monthly quality-control report will track scanning accuracy, missing pages, and outstanding conservation work.
